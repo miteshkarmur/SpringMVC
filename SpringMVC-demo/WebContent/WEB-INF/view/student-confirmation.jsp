@@ -8,9 +8,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-    Hello World
-	The Student: ${student.firstName} ${student.lastName} is confirmed dude don't relax chill !!
+    Hello World,
+	The Student: ${student.firstName} ${student.lastName} is confirmed.
 	<br>
 	<br> Country selected: ${student.country}
 	<br>
@@ -23,12 +22,7 @@
 			<li>${foo }</li>
 		</c:forEach>
 	</ul>
-	
-<<<<<<< HEAD
 	@Copyright - Mitesh Keshur Karmur 
-=======
 	@Copyright - Mitesh mitesh 
-	
->>>>>>> branch 'master' of https://github.com/miteshkarmur/SpringProjects.git
 </body>
 </html>
