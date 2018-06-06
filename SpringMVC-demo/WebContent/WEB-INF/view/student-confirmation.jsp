@@ -5,11 +5,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Student form</title>
 </head>
 <body>
-    Mitesh Karmur
-    -------------
 	The Student: ${student.firstName} ${student.lastName} is confirmed.
 	<br>
 	<br> Country selected: ${student.country}
