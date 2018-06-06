@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	The Student: ${student.firstName} ${student.lastName} is confirmed dude relax chill !!
+	The Student: ${student.firstName} ${student.lastName} is confirmed dude don't relax chill !!
 	<br>
 	<br> Country selected: ${student.country}
 	<br>
@@ -23,6 +23,11 @@
 		</c:forEach>
 	</ul>
 	
+<<<<<<< HEAD
 	@Copyright - Mitesh Keshur Karmur 
+=======
+	@Copyright - Mitesh mitesh 
+	
+>>>>>>> branch 'master' of https://github.com/miteshkarmur/SpringProjects.git
 </body>
 </html>
