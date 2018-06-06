@@ -23,6 +23,6 @@
 		</c:forEach>
 	</ul>
 	
-	@Copyright - Mitesh
+	@Copyright - Mitesh Karmur
 </body>
 </html>
