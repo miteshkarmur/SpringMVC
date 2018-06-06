@@ -8,7 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    Hello World from mitesh,
 	The Student: ${student.firstName} ${student.lastName} is confirmed.
 	<br>
 	<br> Country selected: ${student.country}
