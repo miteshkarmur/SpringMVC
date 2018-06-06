@@ -22,6 +22,7 @@
 			<li>${foo }</li>
 		</c:forEach>
 	</ul>
+	Hi added new line
 
 </body>
 </html>
