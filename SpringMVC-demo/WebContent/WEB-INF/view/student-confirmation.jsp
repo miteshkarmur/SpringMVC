@@ -9,6 +9,7 @@
 </head>
 <body>
 
+    Hello World
 	The Student: ${student.firstName} ${student.lastName} is confirmed dude don't relax chill !!
 	<br>
 	<br> Country selected: ${student.country}
