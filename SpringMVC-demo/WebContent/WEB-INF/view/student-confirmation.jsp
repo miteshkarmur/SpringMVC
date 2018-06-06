@@ -22,5 +22,6 @@
 			<li>${foo }</li>
 		</c:forEach>
 	</ul>
+	@Copyright - Mitesh
 </body>
 </html>
