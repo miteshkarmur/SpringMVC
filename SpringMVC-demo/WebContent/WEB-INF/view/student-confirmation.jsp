@@ -16,14 +16,11 @@
 	<br> Favorite Language: ${student.favLang }
 	<br>
 	<br>
-	Operating Systems selected by the student:
+	Operating Systems:
 	<ul>
 		<c:forEach var="foo" items="${student.os }">
 			<li>${foo }</li>
 		</c:forEach>
 	</ul>
-	Hi added new line
-	dghdhdh
-
 </body>
 </html>
