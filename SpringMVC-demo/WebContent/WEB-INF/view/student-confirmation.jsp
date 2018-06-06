@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	The Student: ${student.firstName} ${student.lastName} is confirmed dude relax chill !!
+	The Student: ${student.firstName} ${student.lastName} is confirmed dude don't relax chill !!
 	<br>
 	<br> Country selected: ${student.country}
 	<br>
@@ -23,6 +23,7 @@
 		</c:forEach>
 	</ul>
 	
-	@Copyright - Mitesh
+	@Copyright - Mitesh mitesh 
+	
 </body>
 </html>
