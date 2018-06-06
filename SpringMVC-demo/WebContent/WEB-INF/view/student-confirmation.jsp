@@ -22,7 +22,5 @@
 			<li>${foo }</li>
 		</c:forEach>
 	</ul>
-	@Copyright - Mitesh Keshur Karmur 
-	@Copyright - Mitesh mitesh 
 </body>
 </html>
