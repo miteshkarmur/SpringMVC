@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	The Student: ${student.firstName} ${student.lastName} is confirmed
+	The Student: ${student.firstName} ${student.lastName} is confirmed dude relax chill !!
 	<br>
 	<br> Country selected: ${student.country}
 	<br>
