@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="processForm" method="POST">
-	<input type="text" name="empName" placeholder="enter emp name"/>
+	<input type="text" name="empName" />
 	<input type="submit"/> 
 </form>
 </body>
